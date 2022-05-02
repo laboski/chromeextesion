@@ -1,0 +1,11 @@
+{
+    "manifest_version":2,
+    "name": "Chuck Norris random joke",
+    "description": "Shows random jokes from chuck norris",
+    "version":"1.0",
+    "browser_action": {
+        "default_icon": "icon.jpg",
+        "default_popup": "popup.html"
+    },
+    "permissions": []
+}
